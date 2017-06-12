@@ -1,0 +1,26 @@
+.logo
+{
+    border-radius: 50%;
+}
+
+#createQuizButton
+{
+  position: fixed;
+  bottom:50%;
+}
+
+.brand
+{
+  font-family: 'Lobster Two', cursive;
+}
+
+.loginButton:hover .loginText
+{
+  color:#48506d !important;
+}
+
+.takeQuizMenu {
+  padding-top: 80px;
+  backgroundColor:'#FAFAFA';
+  width: 100%;
+}
